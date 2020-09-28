@@ -1,5 +1,6 @@
 Numpy
 tensorflow>=1.2
 tqdm==4.50.0
-Python==3.6.12 
+Python==3.8.5
+
 
