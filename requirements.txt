@@ -1,4 +1,4 @@
-django
+django==2.0.7
 gunicorn
 django-heroku
 Python==3.6.12 
