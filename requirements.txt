@@ -1,6 +1,5 @@
 Numpy
 tensorflow>=1.2
 tqdm
-gunicorn
 Python==3.6.12 
 
