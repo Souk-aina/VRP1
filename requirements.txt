@@ -1,6 +1,5 @@
 Numpy
 tensorflow>=1.2
-tqdm
 Python==3.8.5
 
 
