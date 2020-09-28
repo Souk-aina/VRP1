@@ -1,5 +1,5 @@
 django
 gunicorn
 django-heroku
-Python==3.8.6
+Python==3.6.12 
 
