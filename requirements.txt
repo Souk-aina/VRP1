@@ -1,6 +1,5 @@
 Numpy
 tensorflow>=1.2
-psychopg2==2.1.1
 django_heroku
 Django
 gunicorn
