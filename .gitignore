@@ -15,7 +15,4 @@
 *.synctex
 *.synctex.gz
 *.synctex.gz(busy)
-/venv
-__pycache__
-db.sqlite3          
-gettingstarted/static/
+
