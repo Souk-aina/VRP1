@@ -2,6 +2,6 @@ gunicorn
 psychopg2 > 2.1.1
 Numpy
 tensorflow>=1.2
-Python==3.8.5
+Python==3.7.6
 
 
