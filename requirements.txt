@@ -2,6 +2,6 @@ Numpy
 tensorflow>=1.2
 django_heroku
 Django
-gunicorn
+gunicorn==0.14.2
 Python==3.8.5
 
