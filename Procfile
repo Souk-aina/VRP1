@@ -1,12 +1,1 @@
-web: gunicorn TSP:tsp_utils --log-file -
-web: gunicorn VRP:vrp_utils --log-file -
-web: gunicorn VRP:vrp_attention --log-file -
-web: gunicorn model:attention_agent --log-file -
-web: gunicorn shared:attention --log-file -
-web: gunicorn shared:decode_step --log-file -
-web: gunicorn shared:embeddings --log-file -
-web: gunicorn shared:misc_utils --log-file -
-web: gunicorn master:configs --log-file - 
-web: gunicorn master:main --log-file -
-web: gunicorn master:misc_utils --log-file - 
-web: gunicorn master:task_specific_params --log-file -
+python main.py --task=vrp10
