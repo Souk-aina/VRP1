@@ -5,4 +5,5 @@ django_heroku
 Django
 gunicorn==0.14.2
 Python==2.7.18
+psycopg2==2.7.2
 
