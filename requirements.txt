@@ -4,5 +4,5 @@ tqdm
 django_heroku
 Django
 gunicorn==0.14.2
-Python==3.8.5
+Python==2.7
 
