@@ -1,2 +1,2 @@
 web: gunicorn VRP1.wsgi
-python main.py --task=vrp10
+web:python main.py --task=vrp10
