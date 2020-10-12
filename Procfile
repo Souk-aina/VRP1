@@ -1,1 +1,1 @@
-python main.py --task=vrp10
+web:python main.py --task=vrp10
