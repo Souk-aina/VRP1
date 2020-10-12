@@ -1,2 +1,2 @@
-web: gunicorn agile-beyond-08936.wsgi --log-file -
+web: gunicorn VRP1.wsgi
 python main.py --task=vrp10
