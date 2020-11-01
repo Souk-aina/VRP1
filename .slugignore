@@ -1,2 +1,5 @@
 /README.md
 *.pdf
+/test
+/spec
+/docs
